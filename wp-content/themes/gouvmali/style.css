@@ -26,7 +26,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 html { font-size: 100%; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; }
 body { font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-size: 0.875rem; line-height: 1.6; background: #f7f7f7; word-wrap: break-word; }
 .fullbg .custom-background { -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
-.mh-container { width: 980px; margin: 20px auto 0; position: relative; -webkit-box-shadow: 0 0 5px 1px #a8a8a8; -moz-box-shadow: 0 0 5px 1px #a8a8a8; box-shadow: 0 0 5px 1px #a8a8a8; }
+.mh-container { width: 980px; margin: 0 auto 0; position: relative; -webkit-box-shadow: 0 0 5px 1px #a8a8a8; -moz-box-shadow: 0 0 5px 1px #a8a8a8; box-shadow: 0 0 5px 1px #a8a8a8; }
 .mh-wrapper { padding: 20px; background: #fff; }
 .mh-main { width: 100%; }
 .mh-content, .hp-content { width: 620px; overflow: hidden; }
